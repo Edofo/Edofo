@@ -1,18 +1,14 @@
 👋 Hey, I'm Nolan LEBOUCHER, a 20-year-old full-stack developer currently working as a Lead Dev and Co-founder for a startup. I'm also a Lead Dev for a company called Standard en Ligne.
-
-
-
+<br />
+<br />
 🔭 My portfolio is available at [https://lnolan.fr](https://lnolan.fr/), where you can check out some of my projects and learn more about my work.
-
-
-
+<br />
+<br />
 💻 Here are some of the programming languages, libraries, and frameworks that I'm familiar with:
-
-
+<br />
 -   **Languages:** HTML, SASS, Node.js, TypeScript, Solidity
 -   **Libraries/Frameworks:** React, React Native, Next.js, Nest.js, Laravel
-
-
+<br />
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
@@ -35,11 +31,9 @@
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
-
-
-
+<br />
+<br />
 🌱 I'm always looking to expand my skillset and am currently learning Solidity to develop web3.0 applications.
-
-
-
+<br />
+<br />
 Thanks for stopping by, and feel free to reach out if you have any questions or would like to collaborate!
