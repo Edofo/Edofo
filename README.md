@@ -1,5 +1,5 @@
-👋 Hey, I'm Nolan LEBOUCHER, a 20-year-old full-stack developer 
-currently working as a Lead Dev and Co-founder for a startup. I'm also a Lead Dev for a company called Standard en Ligne.
+👋 Hey, I'm Nolan LEBOUCHER, a 22-year-old full-stack developer 
+currently working as a CTO and Co-founder for a startup. I'm also a CTO for a company called Leets.
 <br />
 <br />
 🔭 My portfolio is available at [https://lnolan.fr](https://lnolan.fr/), where you can check out some of my projects and learn more about my work.
